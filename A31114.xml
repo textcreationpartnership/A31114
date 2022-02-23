@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable the Lord Mayor, aldermen, and citizens of London at St. Lawrence Jewry, on the feast of St. Michael, 1698, at the election of the Lord Mayor for the year ensuing / by Samuel Barton ...</title>
+            <author>Barton, Samuel, 1647 or 8-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31114</idno>
+            <idno type="STC">Wing B995</idno>
+            <idno type="STC">ESTC R58</idno>
+            <idno type="EEBO-CITATION">12685673</idno>
+            <idno type="OCLC">ocm 12685673</idno>
+            <idno type="VID">65760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65760)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 973:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable the Lord Mayor, aldermen, and citizens of London at St. Lawrence Jewry, on the feast of St. Michael, 1698, at the election of the Lord Mayor for the year ensuing / by Samuel Barton ...</title>
+                  <author>Barton, Samuel, 1647 or 8-1715.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Festival-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:65760:1"/>
+            <head>Edwin Mayor.</head>
+            <head type="sub">Cur' Special' tent' die Jovis in feſto Sancti Michaelis Archangeli, xxix die Septembris <hi>1698<hi rend="sup">o</hi>
+               </hi> An<g ref="char:EOLhyphen"/>noque Regni Regis <hi>Willielmi</hi> tertii Angliae &amp;c. decimo.</head>
+            <p>THis Court doth deſire Dr. <hi>Barton</hi> to print his Sermon preached this Day before the Right Honoura<g ref="char:EOLhyphen"/>ble the Lord Mayor, Aldermen and Citizens of this City, at the Pariſh-Church of St. <hi>Lawrence Jewry,</hi> be<g ref="char:EOLhyphen"/>ing the Day of Election of the Lord Mayor of this City for the Year enſuing.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:65760:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before The Right Honourable THE LORD MAYOR, Aldermen, and Citizens OF <hi>LONDON,</hi> At St. <hi>Lawrence Jewry,</hi> On the Feaſt of St. <hi>Michael,</hi> 1698.</p>
+            <p>At the Election of the Lord Mayor for the Year enſuing.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL BARTON,</hi> D.D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Brabazon Aylmer</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhill.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:65760:2"/>
+            <pb n="1" facs="tcp:65760:2" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. xxi. 15.</hi>
+                  </bibl>
+                  <p>It is joy to the juſt to do judgment, but deſtruction ſhall be to the workers of Iniquity.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>SOlomon</hi> the wiſe King of <hi>Iſrael</hi> was not only a great Lover of Juſtice, (as every good Man is) but had great Power and Opportunity of doing Juſtice among his Subjects, by virtue of that high Office, that regal Dignity, with which he was inveſted. And he had alſo a great Sagacity in diſ<g ref="char:EOLhyphen"/>cerning how to do it, and finding on which ſide it lay, as we may learn from what is related of him in the Firſt Book of <hi>Kings,</hi> concerning his deciding the Controverſie between the two Women about the Living and the Dead Child. And therefore we may reaſonably ſuppoſe that what he ſays in the former part at leaſt, of the Words of the Text, was no more than what he himſelf had found to be true by Experience, <hi>It is joy to the juſt
+<pb n="6" facs="tcp:65760:3"/>to do judgment:</hi> i. e. It is a great Pleaſure and Satisfaction to a good and righteous Man to execute Juſtice impartially, 'tis what leaves a ſavoury Reliſh behind it, and is very delightful and comfortable in the Reflection upon it afterwards; <hi>But deſtruction ſhall be to the workers of iniquity,</hi> i. e. However wicked Men may poſſibly pleaſe themſelves for a while in their unrighteous Dealings, and rejoyce in Iniquity for a time, yet firſt or laſt, in this World, or however in the next, it will be the Ruine of 'em, if a timely Repentance do not prevent it.</p>
+            <p>This ſeems to be the moſt obvious Senſe of the Words at the firſt reading of 'em. But there is another ſomewhat different from this, which they are alſo very well capable of, and both the one and the other contains a Truth that is very well worthy our Conſideration; <hi>It is joy to the juſt to do judgment;</hi> or, as it may be render'd, <hi>The Execution of Ju<g ref="char:EOLhyphen"/>ſtice is matter of Joy to the Juſt;</hi> i. e. Juſt and Good Men are very much pleas'd in ſeeing Juſtice done, tho' it be by o<g ref="char:EOLhyphen"/>thers and not themſelves, and even tho'
+<pb n="7" facs="tcp:65760:3" rendition="simple:additions"/>they perhaps have no particular concern in it. And if we take the former part of the Words in this Senſe, then the Anti<g ref="char:EOLhyphen"/>theſis will be the more clear in the latter part, <hi>But deſtruction ſhall be to the workers of iniquity,</hi> or, as it may be render'd, <hi>But it is a great Terror and Mortification to the Workers of <g ref="char:V">Ʋ</g>nrighteouſneſs;</hi> as if <hi>Solomon</hi> had ſaid, When good Magi<g ref="char:EOLhyphen"/>ſtrates diſcharge their Truſt faithfully, and execute Juſtice impartially, all ho<g ref="char:EOLhyphen"/>neſt and good Men are greatly rejoyc'd at it, but it brings a ſore Terror and Conſternation upon the Workers of Ini<g ref="char:EOLhyphen"/>quity.</p>
+            <p>Taking the Words thereof according to the full latitude of their Senſe, they preſent us with four things to be conſi<g ref="char:EOLhyphen"/>der'd.</p>
+            <list>
+               <item>I. That 'tis a great pleaſure to a juſt Man to do Juſtice.</item>
+               <item>II. That 'tis a great pleaſure alſo to the Spectators, if they be righteous and good Men, to ſee good Magi<g ref="char:EOLhyphen"/>ſtrates faithfully diſcharging their Duty in the Execution of Juſtice.</item>
+               <pb n="8" facs="tcp:65760:4"/>
+               <item>III. That the ſame is a great Terror to the Wicked and Unjuſt. And,</item>
+               <item>IV. That Injuſtice and Wickedneſs will firſt or laſt bring a Man to ruine without Repentance. <hi>Deſtru<g ref="char:EOLhyphen"/>ction ſhall be to the workers of Ini<g ref="char:EOLhyphen"/>quity.</hi>
+               </item>
+            </list>
+            <p>I ſhall ſpeak ſomething briefly to each of theſe Propoſitions by way of Illu<g ref="char:EOLhyphen"/>ſtration and Confirmation of them, and then proceed to make ſome Applica<g ref="char:EOLhyphen"/>tion. And,</p>
+            <p n="1">I. That 'tis a great Pleaſure to a juſt Man to do Juſtice. And this it is</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe 'tis an acting according to his own Inclinations. Now 'tis al<g ref="char:EOLhyphen"/>ways pleaſant to a Man to purſue the natural or habitual Inclinations of his Mind. Merciful and Compaſſionate Men take delight in relieving and ſuccouring the Afflicted; A bountiful Diſpoſition is pleas'd with Acts of Liberality, and therefore ſeeks the fit Occaſions and Op<g ref="char:EOLhyphen"/>portunities for 'em, according to that of the Prophet, <hi>The liberal deviſeth liberal
+<pb n="9" facs="tcp:65760:4" rendition="simple:additions"/>things.</hi> Even evil and naughty Inclinati<g ref="char:EOLhyphen"/>ons make it pleaſant in ſome degree for the time, to act according to 'em. So a Covetous Man takes pleaſure in hoarding up Money, tho' to no pur<g ref="char:EOLhyphen"/>poſe: One that is of a Revengeful Diſ<g ref="char:EOLhyphen"/>poſition, in acting his Revenge: A Luxu<g ref="char:EOLhyphen"/>rious Perſon in Riot and Exceſs. But the difference is, Where the Habit or In<g ref="char:EOLhyphen"/>clination is Evil, all the Pleaſure that can come from acting according to it, is quite over-balanc'd, by the Sting it leaves behind; and 'tis not ſo pleaſant in doing as 'tis bitter to reflect upon, and bitter in its Conſequences. But on the other ſide, where Reaſon, Religion, and Incli<g ref="char:EOLhyphen"/>nation meet, there the Pleaſure of acting according to ſuch an Inclination, is en<g ref="char:EOLhyphen"/>tire, and no Sorrow mix'd with it, but a Man is eaſie and well pleas'd in follow<g ref="char:EOLhyphen"/>ing the Bent of his own Heart, and does not fear he ſhall rue it another Day, but tho' he ſhou'd meet with ſome Difficul<g ref="char:EOLhyphen"/>ties and Obſtructions from without, yet he will find a Reward in the comforta<g ref="char:EOLhyphen"/>ble Teſtimony of his own Conſcience: Therefore,</p>
+            <pb n="10" facs="tcp:65760:5"/>
+            <p>
+               <hi>Secondly,</hi> 'Tis Joy to the Juſt to do Judgment, becauſe he knows that he does well in ſo doing, and that his Acti<g ref="char:EOLhyphen"/>on is approv'd by Almighty God. He knows that he acts as becomes a Reaſo<g ref="char:EOLhyphen"/>nable Creature, and agreeably to that Law by which he himſelf muſt be judg'd. And this cannot but be a mighty plea<g ref="char:EOLhyphen"/>ſure to the Mind: A pleaſure which none can poſſibly have in doing wickedly: For however thro' Error ſuch may ſometimes imagine that they do well, yet that's the moſt it can amount to, they can never be ſure of it, becauſe it is not ſo; and ge<g ref="char:EOLhyphen"/>nerally wicked Men either know, or at leaſt greatly ſuſpect that what they do is evil, and diſpleaſing to God, and that cannot but be a great Diſquiet to the Mind of any Man that will give him<g ref="char:EOLhyphen"/>ſelf leave to think, and reflect on his own Actions. And hence,</p>
+            <p>
+               <hi>Thirdly,</hi> To do Juſtice muſt needs be Joy to a good Man, becauſe of the aſſu<g ref="char:EOLhyphen"/>red Hope it gives him of God's Favour, who is evermore a Lover and Rewarder of the Upright; according to that of the Pſalmiſt,<note place="margin">Pſalm. 11.7.</note> 
+               <hi>The righteous Lord loveth
+<pb n="11" facs="tcp:65760:5" rendition="simple:additions"/>righteouſneſs. his Countenance doth behold the upright.</hi> Thus <hi>Job,</hi> who was a great Ru<g ref="char:EOLhyphen"/>ler and Magiſtrate in his Country, groun<g ref="char:EOLhyphen"/>ded his hope of a Bleſſing from God upon his having faithfully diſcharg'd his Duty in the Adminiſtration of Juſtice, as we read in the 29th of <hi>Job,</hi> from the 14th. to the 18th. Verſe. <hi>I put on righteouſneſs, and it cloath'd me, my judgment was as a robe and a diadem. I was eyes to the blind, and feet was I to the lame. I was a father to the poor, and the cauſe which I knew not I ſearch'd out. And I brake the jaws of the wicked, and pluck'd the ſpoil out of his Teeth; Then I ſaid, I ſhall die in my neſt, I ſhall multiply my days as the ſand.</hi> He hop'd to enjoy Proſperity and a long Life, becauſe he had been ſo good a Ma<g ref="char:EOLhyphen"/>giſtrate, and ſo great a Patron of Right and Juſtice where he liv'd. And this his Hope did not deceive him, tho' he had indeed a great Interval of Affliction. But,</p>
+            <p>
+               <hi>Fourthly,</hi> It may well be Joy to a juſt Magiſtrate to do Judgment, becauſe 'tis an high Honour done him by Al<g ref="char:EOLhyphen"/>mighty God to be employ'd in doing
+<pb n="12" facs="tcp:65760:6"/>part of his Work. For 'tis God that is the great Doer of Juſtice to all his Crea<g ref="char:EOLhyphen"/>tures: He is the Fountain of Right as he is the Fountain of Good: He is the Judge of all the World, and will one Day do right impartially unto all: He has ſaid that <hi>Vengeance is his, and he will repay.</hi>
+               <note place="margin">Rom. 12.19.</note> However he does not ordi<g ref="char:EOLhyphen"/>narily in this Life take the Execution of Juſtice immediately into his own Hands, but has appointed Deputies for it, to whom upon that account he has ſaid <hi>Ye are Gods.</hi> However difficult it may be to prove any one particular Form of Government to be of Divine Right, moſt certain it is that Government and Magi<g ref="char:EOLhyphen"/>ſtracy in general, are the Ordinance of God. And of every lawful Magiſtrate, we may ſay that <hi>he is God's miniſter to us for good,</hi>
+               <note place="margin">Rom. 13.4.</note> 
+               <hi>a revenger to execute wrath on him that doth wrong.</hi>
+            </p>
+            <p>There are ſeveral other Reaſons that might be given why 'tis ſuch a Pleaſure and Satisfaction to a Juſt Man to do Judgment. But the ſame are alſo Reaſons of the Second thing, and therefore may be conſider'd there. Now the Second Propoſition was,</p>
+            <pb n="13" facs="tcp:65760:6" rendition="simple:additions"/>
+            <p n="2">II. That 'tis a great Pleaſure alſo to the Spectators, if they be Righteous and Good Men, to ſee good Magiſtrates faithfully diſcharging their Duty in the Execution of Juſtice. So it is</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe 'tis a Pleaſure to ſee o<g ref="char:EOLhyphen"/>thers doing that which one wou'd do one's ſelf, to ſee eſpecially great Men and Magiſtrates concurring with one in Opi<g ref="char:EOLhyphen"/>nion, and doing that which one knows is right and fit to be done. But,</p>
+            <p>
+               <hi>Secondly,</hi> 'Tis Joy to a Juſt Man to do Juſtice, and 'tis Joy to all good Men to ſee it done, becauſe 'tis a thing ſo very neceſſary, and ſo beneficial to Mankind. I ſhall not be large upon this Common Place: For 'tis obvious to the Thoughts of all Men, that without ſome Executi<g ref="char:EOLhyphen"/>on of Juſtice, there can be no Peace, no Security, no quiet or comfortable Living, no Property, no calling any thing one's own, and thence no honeſt Induſtry, nor none of the moſt ordinary Conveniencies of Life. And hence 'tis commonly ob<g ref="char:EOLhyphen"/>ſerv'd, that even Thieves and Robbers, tho' their Trade be all Violence and In<g ref="char:EOLhyphen"/>juſtice
+<pb n="14" facs="tcp:65760:7"/>towards others, yet are forc'd to exerciſe ſome kind of Juſtice among themſelves in the dividing of the Spoil.</p>
+            <p>But it is not only thoſe Crimes where<g ref="char:EOLhyphen"/>by Men do immediately injure one ano<g ref="char:EOLhyphen"/>ther, that a good Magiſtrate will think himſelf bound to puniſh, but thoſe alſo whereby they diſhonour God, or abuſe themſelves. For whatever we tolerate, none certainly can plead for a Toleration of Vice and open Profaneneſs or Wick<g ref="char:EOLhyphen"/>edneſs. If we tolerate ſuch things, we have cauſe to fear that God will not long tolerate us. But a faithful and diligent Endeavour to ſuppreſs all things of that Nature, by executing the Laws that are in force againſt them, is the only way to prevent God's Judgments from falling on us. And therefore it muſt needs be Joy to the Magiſtrate to do this, when there is juſt Cauſe for it, if he be one that de<g ref="char:EOLhyphen"/>lights in doing his Duty, and Joy to eve<g ref="char:EOLhyphen"/>ry good Man to ſee it done; to ſee Vir<g ref="char:EOLhyphen"/>tue and Piety encourag'd, and notorious Offenders puniſh'd; to ſee Truth and In<g ref="char:EOLhyphen"/>nocence brought to light and clear'd, and malicious Subtlety defeated of its
+<pb n="15" facs="tcp:65760:7" rendition="simple:additions"/>Deſigns; to ſee Order and Peace main<g ref="char:EOLhyphen"/>tain'd, Vice diſcountenanc'd, and Wick<g ref="char:EOLhyphen"/>edneſs, if not totally ſuppreſs'd, yet kept under Hatches, and not daring openly to ſhew itſelf. Theſe are very comely and deſirable Spectacles in ſuch a World as this, where we cannot expect that all things ſhou'd be ſo well as we could wiſh, but ought to be thankful to thoſe who uſe a diligent Endeavour to keep things in ſome tolerable good Order, thoſe good Magiſtrates who ſtudy to promote the Publick Peace and Welfare, and to an<g ref="char:EOLhyphen"/>ſwer the Ends of their Inſtitution. A<g ref="char:EOLhyphen"/>gain,</p>
+            <p>
+               <hi>Thirdly,</hi> There are ſome particular Ca<g ref="char:EOLhyphen"/>ſes wherein it is more eſpecially a pleaſant thing to do Juſtice, or to ſee it well done. As for Inſtance, When Wickedneſs is ſuch as cries for Vengeance, when it ſeems big enough to bring a Stain of Guilt up<g ref="char:EOLhyphen"/>on a whole City or Nation, if not ſpeedi<g ref="char:EOLhyphen"/>ly aveng'd, or when the Sufferings of ſome innocent Perſons are ſuch by rea<g ref="char:EOLhyphen"/>ſon of Oppreſſors, that 'tis enough to grieve the Heart of any well-natur'd Man to obſerve it. In theſe and ſuch
+<pb n="16" facs="tcp:65760:8"/>like Caſes, a good Man may be in pain till he has ſeen Juſtice done, his Stomach may ſo riſe againſt ſome ſort of Wick<g ref="char:EOLhyphen"/>edneſs as it may happen to be aggravated, or his Compaſſion may be ſuch towards ſome Sufferers, or he may be ſo appre<g ref="char:EOLhyphen"/>henſive of Publick Guilt and Infamy by reaſon of ſome Crimes, that he may be ſcarce able to brook any Delay. And in ſuch Caſes to ſee Juſtice done is very deſi<g ref="char:EOLhyphen"/>rable and very pleaſant.</p>
+            <p>Almighty God is infinitely patient, and bears long with Men, and yet when Wick<g ref="char:EOLhyphen"/>edneſs is grown to a great height, we find him expreſſing himſelf as one in pain till he had executed Judgment upon E<g ref="char:EOLhyphen"/>vil-Doers, <hi>Iſa.</hi> 1.24. <hi>Ah I will eaſe me of mine adverſaries, and avenge me of mine enemies.</hi> And even good Men (who are always compaſſionate, yet) may be al<g ref="char:EOLhyphen"/>low'd ſometimes to rejoyce in the Puniſh<g ref="char:EOLhyphen"/>ment of Evil-doers. For ſo ſays the Pſalmiſt, <hi>The righteous ſhall rejoyce when he ſeeth the vengeance, Pſal.</hi> 58.10. Far be it from any good Man to rejoyce merely in the Sufferings of another, how wicked ſoever, and not rather to wiſh for
+<pb n="17" facs="tcp:65760:8" rendition="simple:additions"/>his Repentance and Amendment. But yet when Wickedneſs is very great and daring, or open and notorious, ſo that there is apparent need of a ſpeedy Refor<g ref="char:EOLhyphen"/>mation to prevent the Judgments of God, it cannot but rejoyce a good Man's Heart to ſee a Check put to it by the power of the Magiſtrate, and Examples made of ſome ſuch Tranſgreſſors, that ſo they themſelves, if poſſible, may be brought to Repentance; and however, that others may ſee it and fear, and have a care how they do the like. And the Execution of Juſtice therefore in ſuch Caſes as theſe, finds a general Approbation and Applauſe; Whence <hi>Solomon</hi> tells us, That <hi>when it goeth well with the Righteous the City rejoyceth,</hi>
+               <note place="margin">Prov. 11.10.</note> 
+               <hi>and when the Wicked pe<g ref="char:EOLhyphen"/>riſh there is ſhouting.</hi>
+            </p>
+            <p>But to proceed to the <hi>Third Propoſition.</hi> That's but the manifeſt Conſequence of what has been already ſaid, <hi>viz.</hi>
+            </p>
+            <p n="3">III. That the Execution of Juſtice is terrible to Evil-doers. It muſt needs be ſo ſince 'tis they that ſuffer by it. Their Sin then finds them out, and brings 'em
+<pb n="18" facs="tcp:65760:9"/>to publick Shame, and their guilty Con<g ref="char:EOLhyphen"/>ſciences many times in ſuch Caſes are let looſe to torment 'em. And happy it is for them if they can but repent and amend their Ways, and ſo eſcape thoſe endleſs Torments to which Sin elſe will inevitably bring 'em. They will have reaſon then to be very thankful for their Cure, tho' the Methods of it were never ſo bitter and unpleaſant. But 'tis a ſad and a dreadful thing indeed when Pu<g ref="char:EOLhyphen"/>niſhments in this Life from the Hand of the Civil Magiſtrate, are but a Prelude to everlaſting Woe and Miſery in the next; which yet muſt be the Caſe if not prevented by Repentance, according to the <hi>Fourth Propoſition,</hi> manifeſtly contain<g ref="char:EOLhyphen"/>ed in the Words of the Text, <hi>viz.</hi>
+            </p>
+            <p n="4">IV. That Injuſtice and Wickedneſs will moſt certainly bring a Man to ruin without Repentance. <hi>Deſtruction ſhall be to the workers of Iniquity.</hi> This is a Truth which has a neceſſary Connexion with, and Dependence upon the eſſential Attri<g ref="char:EOLhyphen"/>butes of God, his Veracity and his Ju<g ref="char:EOLhyphen"/>ſtice.
+<pb n="19" facs="tcp:65760:9" rendition="simple:additions"/>He has ſaid it, and therefore no doubt he will make it good. And we muſt have very unworthy thoughts of him, if we <hi>can</hi> believe that ever he will ſuffer any Man finally to proſper by diſ<g ref="char:EOLhyphen"/>pleaſing him, and doing Evil, ſeeing he always ſees it, be it carry'd never ſo cloſe, and always has it in his power to do Ju<g ref="char:EOLhyphen"/>ſtice. It is therefore moſt certain that he will one Day meet with all the Workers of Iniquity, and convince 'em fully to their everlaſting Satisfaction, that he was no idle or unconcern'd Spectator of what they did, but did always intend what he had ſo often told 'em in vain, even to render to all Men according to their Works. And then they will never call in queſtion his Providence any more, nor have it in their power to be Infidels any longer.</p>
+            <p>In this World it cannot otherwiſe be but ſome will eſcape from Juſtice, as it is executed by Men. Some are too big for the Law, and ſome too ſubtil. And Humane Laws cannot reach to all Caſes: They are indeed but an expedient for a
+<pb n="20" facs="tcp:65760:10"/>little while to keep the World from run<g ref="char:EOLhyphen"/>ning into a total Confuſion. But what<g ref="char:EOLhyphen"/>ever Defects there may be in them, or in the Execution of them, or howſoever Men may eſcape here, there is One above whom no Man can deceive, none can bribe, nor none can be too ſtrong for, who will not fail to do right to all, and to make it appear plainly that 'twas every Man's In<g ref="char:EOLhyphen"/>tereſt as well as Duty to live ſober<g ref="char:EOLhyphen"/>ly, righteouſly, and godlily in the World.</p>
+            <p>And now having ſpoken thus brief<g ref="char:EOLhyphen"/>ly to thoſe Four Propoſitions which are all manifeſtly contain'd in the Words of the Text, as they have been explain'd, I proceed in the next place to make ſome Application of what has been ſaid to the preſent Time and Occaſion. And I think if we reflect ſeriouſly upon the Doctrine that has been deliver'd, it will afford us Motives ſufficient to the Duties which all or any of us are now call'd to. Whe<g ref="char:EOLhyphen"/>ther it be, <hi>Firſt,</hi> to chooſe ſuch a Magi<g ref="char:EOLhyphen"/>ſtrate as we believe will be faithful to the Truſt repos'd in him, and ſhew him<g ref="char:EOLhyphen"/>ſelf
+<pb n="21" facs="tcp:65760:10" rendition="simple:additions"/>to be a Lover of Juſtice, a Patron of Piety and Virtue, and a Terror to E<g ref="char:EOLhyphen"/>vil-doers, which is the proper Buſineſs of ſome of you. Or, <hi>Secondly,</hi> To diſ<g ref="char:EOLhyphen"/>charge this great Truſt accordingly, and ſo as to anſwer the Hopes and Expecta<g ref="char:EOLhyphen"/>tions of good Men. Or, <hi>Thirdly,</hi> To be aiding and aſſiſting in the doing there<g ref="char:EOLhyphen"/>of, which is every one's Duty as he has Ability and Opportunity. Or, <hi>Laſtly,</hi> which is conſtantly the Duty of us all, To behave our ſelves ſo that a good Magiſtrate faithfully diſcharging his Truſt, may be no Terror, but a Joy and Com<g ref="char:EOLhyphen"/>fort to us. The Doctrine, I ſay, that has been deliver'd contains Motives ſuf<g ref="char:EOLhyphen"/>ficient to every one of theſe; which I ſhall crave leave briefly to lay before you, and ſo conclude. And,</p>
+            <p>
+               <hi>Firſt,</hi> All thoſe that are concern'd may here find how much it does behove 'em to uſe their Endeavours that ſuch a Per<g ref="char:EOLhyphen"/>ſon may be choſen as they believe will faithfully diſcharge the Truſt repos'd in him; one that has the Courage to do
+<pb n="22" facs="tcp:65760:11"/>Juſtice impartially; a Friend to Truth and Right; One that is of a true Pub<g ref="char:EOLhyphen"/>lick Spirit; a Lover of his Country, and of this great City in particular; and, (which is the Foundation of all) One that fears God; a Man ſincerely Religi<g ref="char:EOLhyphen"/>ous, and of unſpotted Virtue, and con<g ref="char:EOLhyphen"/>ſequently a ſure Enemy to all Debauche<g ref="char:EOLhyphen"/>ry, Profaneneſs, and Immorality; One, in ſhort, to whom it will be joy to do Judgment and Righteouſneſs, and who will do what he can to prevent the utter Deſtruction of the Workers of Iniquity, by exerciſing an wholſome Severity to<g ref="char:EOLhyphen"/>wards 'em, that if poſſible they may be reclaim'd, or, at leaſt, to ſtop, as far as may be, the Contagion of their ill Ex<g ref="char:EOLhyphen"/>ample; ſuch an one, or one that approa<g ref="char:EOLhyphen"/>ches neareſt to, and deſerves moſt of ſuch a Character as this, will every good Man deſire to chooſe. For why? The Love of God, and of Religion, of Ju<g ref="char:EOLhyphen"/>ſtice and Righteouſneſs, the deſire of the Publick Good, and the hopes of avert<g ref="char:EOLhyphen"/>ing the heavy Judgments of God, by giving ſome Check to growing Impiety,
+<pb n="23" facs="tcp:65760:11" rendition="simple:additions"/>muſt needs prompt him to it; And he will conſider that if he knowingly con<g ref="char:EOLhyphen"/>tributes to the ſetting up of one who he believes will not anſwer theſe Ends, he thereby derives a Share of the Guilt of all upon himſelf, and becomes anſwera<g ref="char:EOLhyphen"/>ble for other Men's Sins, with all the ſad Conſequences of them. But,</p>
+            <p>
+               <hi>Secondly,</hi> Whoever ſhall be choſen to ſerve God and his Country in ſo high a Station, I muſt entreat him to ſuffer the Word of Exhortation, and to conſider the Motives that have already been ſug<g ref="char:EOLhyphen"/>geſted to a faithful diſcharge of his Duty in doing all that he can, and that the Law empowers him to do, not only towards the promoting of Right, and Juſtice, and Equity between Man and Man, and the preventing of Oppreſſion and Extortion; (which are crying Sins) but alſo for the beating down all manner of Vice and Profaneneſs by a vigorous putting the Laws in execution againſt them, and en<g ref="char:EOLhyphen"/>couraging, (not Brow-beating,) ſuch as are willing to be helpful in ſo good a
+<pb n="24" facs="tcp:65760:12"/>Work, and to give Information againſt Offenders; This is a thing highly becom<g ref="char:EOLhyphen"/>ing every good Magiſtrate, and no more than what is requir'd of 'em by his Majeſty's late Proclamation for prevent<g ref="char:EOLhyphen"/>ing and puniſhing Immorality and Pro<g ref="char:EOLhyphen"/>faneneſs. A Work it is which he may juſtly delight and glory in: For 'tis ſuch an Uſe of his Authority as he may be ſure will be acceptable to God, and ap<g ref="char:EOLhyphen"/>prov'd of all Good Men, which ought to be a Conſideration ſufficient to arm us againſt the unjuſt Cenſures and Obloquy of others: 'Tis a Work highly neceſſary in ſuch an Age as this, when ſo great a Torrent of Licentiouſneſs and Wick<g ref="char:EOLhyphen"/>edneſs has unhappily broken in upon us, and when the Overflowings of Ungod<g ref="char:EOLhyphen"/>lineſs do ſo juſtly make us afraid of hea<g ref="char:EOLhyphen"/>vy Judgments likely to enſue. But how proper and becoming, how noble and honourable a thing is it for good Ma<g ref="char:EOLhyphen"/>giſtrates in ſuch a Caſe to ſtand in the Gap, and with <hi>Phineas,</hi> to execute Judg<g ref="char:EOLhyphen"/>ment upon notorious Offenders, thereby to avert the Wrath of God, and to com<g ref="char:EOLhyphen"/>pel
+<pb n="25" facs="tcp:65760:12" rendition="simple:additions"/>them by Force and Terror to for<g ref="char:EOLhyphen"/>bear the open Practice of their Impie<g ref="char:EOLhyphen"/>ties, whom Words and Perſwaſions, Ar<g ref="char:EOLhyphen"/>guments drawn from Reaſon and Reli<g ref="char:EOLhyphen"/>gion, will not work upon: For there are but too many of thoſe who have no Faith, no Principles left for a Prea<g ref="char:EOLhyphen"/>cher to work on, but their Conſciences are benumm'd, and their Hearts harden'd; And yet they have their Senſes ſtill, and are capable of feeling the Hand of Juſtice, and poſſibly might, ſome of them, be reclaim'd thereby, were it well laid on. However, that were the way to terrifie others, and to make the Works of Darkneſs to retire, at leaſt, into Corners, and keep themſelves within their proper and native Obſcuri<g ref="char:EOLhyphen"/>ty, and not crawl out into the Light, or appear Abroad, to ſpread their Contagion in the open Day. This is what will make the Counte<g ref="char:EOLhyphen"/>nance of a Magiſtrate awful, and his Appearance terrible to the Workers of Iniquity, but pleaſant and delightful to thoſe that love Righteouſneſs. This is
+<pb n="26" facs="tcp:65760:13"/>the way to procure a Bleſſing from God, and a lengthening out of our Tranquil<g ref="char:EOLhyphen"/>lity; and this I am ſure will afford to him that does it, a far more comfort<g ref="char:EOLhyphen"/>able Reflexion afterwards than his ma<g ref="char:EOLhyphen"/>king the greateſt Worldly Advantage; or, in ſhort, than any thing elſe can do. But,</p>
+            <p>
+               <hi>Thirdly,</hi> The ſame Motives which ought to prevail with Magiſtrates to ſet themſelves, and bend their whole Power and Authority againſt the Work<g ref="char:EOLhyphen"/>ers of Iniquity of all ſorts, ſhou'd alſo perſuade every one of us, as far as we have Ability and Opportunity, to be aiding and aſſiſting to them in ſo doing, and eſpecially to have a care how we weaken their Hands, or any ways hinder them in their Endeavours to do ſo good and neceſſary a Work. There is no queſtion but if a good Magi<g ref="char:EOLhyphen"/>ſtrate ſets himſelf in good earneſt to the beating down of Vice and Wick<g ref="char:EOLhyphen"/>edneſs, and promoting a general Re<g ref="char:EOLhyphen"/>formation of Manners, the Devil and
+<pb n="27" facs="tcp:65760:13" rendition="simple:additions"/>his Inſtruments will preſently be very buſie in oppoſing any ſuch Deſign. They will traduce and miſrepreſent it, and endeavour to raiſe ſome Scandal or other upon all whom they find ſtir<g ref="char:EOLhyphen"/>ring and active in it. They will pre<g ref="char:EOLhyphen"/>tend to ſmell out ſome Deſign of pro<g ref="char:EOLhyphen"/>moting a worldly Intereſt, or advan<g ref="char:EOLhyphen"/>cing a Faction, and let Men carry themſelves never ſo innocently and un<g ref="char:EOLhyphen"/>blameably in the matter, ſome Quarrel or other they will pick with them, or raiſe ſome Stories whereby to diſpa<g ref="char:EOLhyphen"/>rage them, and to blaſt their Enterprize. But let us have a Care how we raſh<g ref="char:EOLhyphen"/>ly give ear to ſuch Inſinuations, how we take up, or ſpread any falſe Re<g ref="char:EOLhyphen"/>ports of this kind, leſt happly we be found Fighters againſt God. We can<g ref="char:EOLhyphen"/>not but be ſenſible of the great need there is of Reformation, and therefore, I think, the leaſt we can do is to com<g ref="char:EOLhyphen"/>mend the Zeal of thoſe that ſet them<g ref="char:EOLhyphen"/>ſelves to promote it, and to encourage them therein. It is good for us, the A<g ref="char:EOLhyphen"/>poſtle ſays,<note place="margin">Gal. 4.18.</note> 
+               <hi>to be zealouſly affected always
+<pb n="28" facs="tcp:65760:14"/>in a good matter;</hi> and that I am ſure none can deny this to be. Let us have a care therefore how we pretend to en<g ref="char:EOLhyphen"/>ter into Mens Thoughts, or to judge and cenſure their private Intentions, which are known only to God and themſelves. So long as the Work they do is a good Work, and the Means they uſe no other than what are law<g ref="char:EOLhyphen"/>ful, it cannot but be very ill done to cenſure it, or endeavour to obſtruct it, though there ſhou'd ſometimes (and 'tis a great Wonder indeed if there never ſhou'd) be a Mixture of ſome Indiſcre<g ref="char:EOLhyphen"/>tion in the Management of it.</p>
+            <p>For my part, I cannot but look on it as a very great and wonderful Mer<g ref="char:EOLhyphen"/>cy of God to theſe Nations, if it ſhall pleaſe him to ſtir up, and to continue ſuch a Zeal as there ſeems at this time to be among many young Perſons, and others, for the promoting a Reformati<g ref="char:EOLhyphen"/>on of Manners; which may in due time, with the help of good and faith<g ref="char:EOLhyphen"/>ful Magiſtrates, give a Check to all open Impiety and Immorality, make the Laws
+<pb n="29" facs="tcp:65760:14" rendition="simple:additions"/>againſt 'em uſeful, and reduce us by de<g ref="char:EOLhyphen"/>grees to a general Sobriety, and ſome Senſe of Religion, which at preſent are ſo wofully gone to decay. I am ſure if this be not done, it muſt be ſaid of us as it was of the <hi>Romans</hi> by the Hi<g ref="char:EOLhyphen"/>ſtorian, <hi>Nec vitia noſtra pati poſſumus nec Remedia,</hi> We can neither hold up under the Weight of ſo much Vice and Corruption, nor yet undergo the neceſſary trouble of being cur'd. And then certainly we muſt be ripe for De<g ref="char:EOLhyphen"/>ſtruction. But if we have any Love for our Country, any Care of our Poſte<g ref="char:EOLhyphen"/>rity, any Senſe of God's Honour, or any regard to the Credit of that Re<g ref="char:EOLhyphen"/>form'd Religion which we profeſs, it behoves us to be ſo far from hinder<g ref="char:EOLhyphen"/>ing, that we ſhou'd rather be ready to do all that honeſtly and lawfully we can, to prevent ſo great and imminent a Danger, by ſetting forwar'd to our power, a general Reformation of Man<g ref="char:EOLhyphen"/>ners. But,</p>
+            <pb n="30" facs="tcp:65760:15"/>
+            <p>
+               <hi>Fourthly</hi> and Laſtly, The laſt thing that I told you we ſhou'd be perſua<g ref="char:EOLhyphen"/>ded to by the Doctrine that has been deliver'd, is that which is the Duty of every one of us at all times, <hi>viz.</hi> To behave our ſelves ſo that a good Ma<g ref="char:EOLhyphen"/>giſtrate faithfully diſcharging his Truſt, may be no Terror, but a Joy and Comfort to us. That the Apoſtle tells us will be the Caſe if we do our Du<g ref="char:EOLhyphen"/>ty as we ought to do, <hi>Rom.</hi> 13.3. — <hi>Wilt thou then not be afraid of the Power? Do that which is good and thou ſhalt have praiſe of the ſame. For he is the Miniſter of God to thee for good; but if thou do that which is evil, be a<g ref="char:EOLhyphen"/>fraid, for he beareth not the ſword in vain.</hi> And indeed tho' Magiſtrates may oft be too remiſs in puniſhing Men for their Faults, yet they are very bad ones indeed that will puniſh them for doing well; That's quite contrary to the deſign of their Inſtitution, and the ve<g ref="char:EOLhyphen"/>ry end of the Law, which the ſame A<g ref="char:EOLhyphen"/>poſtle tells us, <hi>was not made for a righ<g ref="char:EOLhyphen"/>teous
+<pb n="31" facs="tcp:65760:15" rendition="simple:additions"/>man,</hi> to coerce or puniſh him,<note place="margin">1 Tim. 1.9.</note> 
+               <hi>but for the ungodly and for ſinners.</hi> And therefore unleſs it be by reaſon of ſome great Miſtakes in Religion, or the like, it does not often happen that Men ſuffer from the Hand of the Magiſtrate for doing well. But where the Law is good, and the Magiſtrate good, there is no fear of it. It is therefore the Duty of all Chriſtians to endeavour to live up ſo ſtrictly to the Rules and Precepts of Gods Law as to be above the Fear of Man's. And cou'd we perſuade all Men ſo to do, the Magi<g ref="char:EOLhyphen"/>ſtrate wou'd have an eaſie Task. For <hi>Facile eſt imperium in bonos.</hi> Good Men are eaſily govern'd. And tho' it be Joy to a juſt Magiſtrate to do Judgment upon Evil-doers, when there is need of it, yet 'tis a much greater Joy to have no Occaſion; and they are much bet<g ref="char:EOLhyphen"/>ter and happier Times when Men will do their Duty, and be good without it. Let us therefore be of that Num<g ref="char:EOLhyphen"/>ber, and ſo ſhall we eſcape that Deſtru<g ref="char:EOLhyphen"/>ction which is here threaten'd in the
+<pb n="32" facs="tcp:65760:16"/>Text, and will certainly come upon all obſtinate and incorrigible Workers of Iniquity.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65760:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
